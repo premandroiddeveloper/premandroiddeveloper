@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quiz app</string>
+    <string name="q1">Banging your head against a wall for one hour burns 150 calories.</string>
+    <string name="q2">Snakes can not help predict earthquakes.</string>
+    <string name="q3">Bananas are curved because they grow towards the sun.</string>
+    <string name="q4">During your lifetime, you will produce enough saliva to fill two swimming pools.
+</string>
+    <string name="q5">Polar bears could eat as many as 100 penguins in a single sitting…</string>
+    <string name="q6">In 2017 more people were killed from injuries caused by taking a selfie than by shark attacks.</string>
+    <string name="q7">The top six foods that make your fart are beans, corn, bell peppers, cauliflower, cabbage and milk.</string>
+     <string name="q8">A lion’s roar can be heard from 15 miles away.</string>
+
+    <string name="q9">In Uganda, around 48% of the population is under 15 years of age.</string>
+    <string name="q10">The average male gets bored of a shopping trip after 1 hour</string>
+</resources>
